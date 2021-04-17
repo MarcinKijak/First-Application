@@ -7,6 +7,8 @@ namespace FirstApplication
             static void Main(string[] args)
             {
             //pole prostokąta
+
+            Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("Pole prostokąta");
             Console.WriteLine("---------------");
             Console.WriteLine($" ");
